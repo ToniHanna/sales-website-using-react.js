@@ -1,0 +1,73 @@
+export default [
+    {
+      model: "iPhone 13",
+      year: 2021,
+      cpu: "A15 Bionic",
+      ram: "4GB",
+      price: 799.99,
+    },
+    {
+      model: "Samsung Galaxy S21",
+      year: 2021,
+      cpu: "Snapdragon 888",
+      ram: "8GB",
+      price: 799.99,
+    },
+    {
+      model: "Google Pixel 6",
+      year: 2021,
+      cpu: "Google Tensor",
+      ram: "8GB",
+      price: 699.99,
+    },
+    {
+      model: "OnePlus 9 Pro",
+      year: 2021,
+      cpu: "Snapdragon 888",
+      ram: "8GB",
+      price: 899.99,
+    },
+    {
+      model: "Sony Xperia 1 III",
+      year: 2021,
+      cpu: "Snapdragon 888",
+      ram: "12GB",
+      price: 1099.99,
+    },
+    {
+      model: "Xiaomi Mi 11",
+      year: 2021,
+      cpu: "Snapdragon 888",
+      ram: "8GB",
+      price: 699.99,
+    },
+    {
+      model: "iPhone SE",
+      year: 2020,
+      cpu: "A13 Bionic",
+      ram: "3GB",
+      price: 399.99,
+    },
+    {
+      model: "Samsung Galaxy A52",
+      year: 2021,
+      cpu: "Snapdragon 720G",
+      ram: "6GB",
+      price: 349.99,
+    },
+    {
+      model: "Google Pixel 5",
+      year: 2020,
+      cpu: "Snapdragon 765G",
+      ram: "8GB",
+      price: 699.99,
+    },
+    {
+      model: "OnePlus Nord",
+      year: 2020,
+      cpu: "Snapdragon 765G",
+      ram: "8GB",
+      price: 399.99,
+    },
+  ];
+  

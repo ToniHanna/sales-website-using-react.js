@@ -1,0 +1,73 @@
+export default [
+    {
+      model: "iPad Pro (2021)",
+      year: 2021,
+      cpu: "Apple M1",
+      ram: "8GB",
+      price: 799.99,
+    },
+    {
+      model: "Samsung Galaxy Tab S7",
+      year: 2020,
+      cpu: "Snapdragon 865+",
+      ram: "6GB",
+      price: 549.99,
+    },
+    {
+      model: "Google Pixel C",
+      year: 2015,
+      cpu: "Nvidia Tegra X1",
+      ram: "3GB",
+      price: 399.99,
+    },
+    {
+      model: "Microsoft Surface Pro 7",
+      year: 2019,
+      cpu: "Intel Core i5",
+      ram: "8GB",
+      price: 799.99,
+    },
+    {
+      model: "Amazon Fire HD 10",
+      year: 2021,
+      cpu: "MediaTek Helio P60",
+      ram: "3GB",
+      price: 149.99,
+    },
+    {
+      model: "Lenovo Tab M10",
+      year: 2020,
+      cpu: "Qualcomm Snapdragon 450",
+      ram: "4GB",
+      price: 199.99,
+    },
+    {
+      model: "Huawei MatePad Pro",
+      year: 2020,
+      cpu: "HiSilicon Kirin 990",
+      ram: "6GB",
+      price: 499.99,
+    },
+    {
+      model: "Sony Xperia Z4 Tablet",
+      year: 2015,
+      cpu: "Qualcomm Snapdragon 810",
+      ram: "3GB",
+      price: 599.99,
+    },
+    {
+      model: "ASUS ZenPad 3S 10",
+      year: 2016,
+      cpu: "MediaTek MT8176",
+      ram: "4GB",
+      price: 299.99,
+    },
+    {
+      model: "Xiaomi Mi Pad 5",
+      year: 2021,
+      cpu: "Qualcomm Snapdragon 860",
+      ram: "6GB",
+      price: 399.99,
+    },
+  ];
+  
